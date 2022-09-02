@@ -1,0 +1,15 @@
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\bin\Debug\netcoreapp3.1\Jugador.Logic.deps.json
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\bin\Debug\netcoreapp3.1\Jugador.Logic.dll
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\bin\Debug\netcoreapp3.1\Jugador.Logic.pdb
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\bin\Debug\netcoreapp3.1\Jugador.Data.dll
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\bin\Debug\netcoreapp3.1\Jugador.Dominio.dll
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\bin\Debug\netcoreapp3.1\Jugador.Data.pdb
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\bin\Debug\netcoreapp3.1\Jugador.Dominio.pdb
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\obj\Debug\netcoreapp3.1\Jugador.Logic.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\obj\Debug\netcoreapp3.1\Jugador.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\obj\Debug\netcoreapp3.1\Jugador.Logic.AssemblyInfoInputs.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\obj\Debug\netcoreapp3.1\Jugador.Logic.AssemblyInfo.cs
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\obj\Debug\netcoreapp3.1\Jugador.Logic.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\obj\Debug\netcoreapp3.1\Jugador.Logic.csproj.CopyComplete
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\obj\Debug\netcoreapp3.1\Jugador.Logic.dll
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.Logic\obj\Debug\netcoreapp3.1\Jugador.Logic.pdb

@@ -1,0 +1,10 @@
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\bin\Debug\Jugadores.App.exe.config
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\bin\Debug\Jugadores.App.exe
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\bin\Debug\Jugadores.App.pdb
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\obj\Debug\Jugadores.App.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\obj\Debug\Jugadores.App.frmJugadores.resources
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\obj\Debug\Jugadores.App.Properties.Resources.resources
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\obj\Debug\Jugadores.App.csproj.GenerateResource.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\obj\Debug\Jugadores.App.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\obj\Debug\Jugadores.App.exe
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Proyecto final\ProyectoFInalVS\Jugadores.App\obj\Debug\Jugadores.App.pdb
